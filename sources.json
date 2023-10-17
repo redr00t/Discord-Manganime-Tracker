@@ -1,0 +1,207 @@
+[
+    {
+        "Type": "Manga",
+        "Name": "Jujutsu Kaisen",
+        "Url": "jujutsu-kaisen",
+        "LastEpisode": 238,
+        "Description": "Jujutsu Kaisen es una serie de manga y anime que narra la historia de Y\u016bji Itadori, un estudiante que se convierte en el anfitri\u00f3n de una poderosa maldici\u00f3n llamada Ry\u014dmen Sukuna. \u00danete a \u00e9l en su lucha contra las maldiciones.",
+        "ImageUrl": "https://i.ibb.co/G3c2r0v/jujutsu.jpg",
+        "UsersToTag": [
+            "1100346149266796557",
+            "325329031505379338"
+        ]
+    },
+    {
+        "Type": "Manga",
+        "Name": "One Piece",
+        "Url": "one-piece",
+        "LastEpisode": 5,
+        "Description": "One Piece es una emocionante serie de manga y anime que sigue las aventuras de Monkey D. Luffy y su tripulaci\u00f3n en busca del legendario tesoro conocido como el One Piece.",
+        "ImageUrl": "https://i.ibb.co/GCdzv1R/one-piece.jpg",
+        "UsersToTag": [
+            "1100346149266796557",
+            "325329031505379338"
+        ]
+    },
+    {
+        "Type": "Manga",
+        "Name": "One Punch Man",
+        "Url": "one-punch-man",
+        "LastEpisode": 238,
+        "Description": "La historia gira alrededor de un h\u00e9roe llamado Saitama, el cual vive en la Ciudad Z de Jap\u00f3n. Todas las ciudades son atacadas por monstruos constantemente, y los h\u00e9roes deben encargarse de proteger a los habitantes con sus habilidades eliminando a cada uno de los enemigos.",
+        "ImageUrl": "https://i.ibb.co/NxzH1gN/one-punch.jpg",
+        "UsersToTag": [
+            "1100346149266796557",
+            "325329031505379338"
+        ]
+    },
+    {
+        "Type": "Manga",
+        "Name": "Los 4 Caballeros del Apocalipsis",
+        "Url": "los-4-caballeros-del-apocalipsis",
+        "LastEpisode": 124,
+        "Description": "Los Cuatro Caballeros del Apocalipsis es un grupo de cuatro j\u00f3venes, cada uno con poderes \u00fanicos, y los cuales se profetizan por el Rey Arthur Pendragon de Camelot que traer\u00e1n destrucci\u00f3n al mundo. Sin embargo, se teoriza que los cuatro todav\u00eda no son Caballeros Sagrados, lo m\u00e1s probable es que sean aprendices.",
+        "ImageUrl": "https://i.ibb.co/qjssNpH/caballeros.jpg",
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Manga",
+        "Name": "Dragon Ball Super",
+        "Url": "dragon-ball-super",
+        "LastEpisode": 0,
+        "Description": "Dragon Ball Super es un anime original producido por Toei Animation bajo el guion escrito de Akira Toriyama. Se trata de una secuela del manga original de Dragon Ball, que sigue las aventuras de Goku y sus amigos durante el lapso de diez a\u00f1os tras la derrota de Majin Boo.",
+        "ImageUrl": "https://i.ibb.co/pKxY4c7/dragon.jpg",
+        "UsersToTag": [
+            "1100346149266796557",
+            "325329031505379338"
+        ]
+    },
+    {
+        "Type": "Manga",
+        "Name": "Fairy Tail 100 Years Quest",
+        "Url": "fairy-tail-100-years-quest",
+        "LastEpisode": 144,
+        "Description": "Un a\u00f1o despu\u00e9s de la ca\u00edda de Zeref y Acnologia, Natsu Dragneel y su equipo del gremio de Fairy Tail se embarcan en 'La Aventura de los 100 A\u00f1os', una misi\u00f3n que no ha logrado completarse en m\u00e1s de un siglo, y que tiene lugar en el continente del norte, Guiltina.",
+        "ImageUrl": "https://i.ibb.co/DkD6ZWz/ft.jpg",
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Manga",
+        "Name": "Boruto Two Blue Vortex",
+        "Url": "boruto-two-blue-vortex",
+        "LastEpisode": 0,
+        "Description": "Consiste en el spin-off y secuela del manga Naruto de Masashi Kishimoto, su historia narra las aventuras y formaci\u00f3n de Boruto Uzumaki, el hijo de Naruto Uzumaki y Hinata Hy\u016bga, as\u00ed como de sus compa\u00f1eros, quienes conforman la nueva generaci\u00f3n de ninjas de la Aldea Oculta de la Hoja cuyo s\u00e9ptimo Hokage es Naruto.",
+        "ImageUrl": "https://i.imgur.com/cpRm1hd.jpg",
+        "UsersToTag": [
+            "325329031505379338"
+        ]
+    },
+    {
+        "Type": "Manga",
+        "Name": "Black Clover",
+        "Url": "black-clover",
+        "LastEpisode": 0,
+        "Description": "Black Clover, es una serie de manga escrita e ilustrada por Yuki Tabata. La serie era publicada en la revista semanal Shonen Jump de la editorial Shueisha. La historia gira en torno de un joven llamado Asta, nacido sin poder m\u00e1gico, algo desconocido en el mundo en el que vive, ya que todos los humanos nacen para ser magos.",
+        "ImageUrl": "https://i.ibb.co/vY0x9jX/black-clover.jpg",
+        "UsersToTag": [
+            "1100346149266796557",
+            "325329031505379338"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Jujutsu Kaisen 2nd Season",
+        "Url": "jujutsu-kaisen-2nd-season",
+        "LastEpisode": 12,
+        "UsersToTag": [
+            "1100346149266796557",
+            "325329031505379338"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Bleach: Sennen Kessen-hen",
+        "Url": "bleach-sennen-kessenhen",
+        "LastEpisode": 26,
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "One Piece",
+        "Url": "one-piece-tv",
+        "LastEpisode": 1079,
+        "UsersToTag": [
+            "1100346149266796557",
+            "325329031505379338"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Ragna Crimson",
+        "Url": "ragna-crimson",
+        "LastEpisode": 3,
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+        "Url": "shangrila-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+        "LastEpisode": 3,
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+        "Url": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
+        "LastEpisode": 9,
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Tokyo Revengers: Tenjiku-hen",
+        "Url": "tokyo-revengers-tenjikuhen",
+        "LastEpisode": 2,
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Kage no Jitsuryokusha ni Naritakute!",
+        "Url": "kage-no-jitsuryokusha-ni-naritakute-2nd-season",
+        "LastEpisode": 2,
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Tate no Yuusha no Nariagari",
+        "Url": "tate-no-yuusha-no-nariagari-season-3",
+        "LastEpisode": 2,
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Undead Unluck",
+        "Url": "undead-unluck",
+        "LastEpisode": 2,
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Dr. Stone: New World",
+        "Url": "dr-stone-new-world",
+        "LastEpisode": 12,
+        "UsersToTag": [
+            "1100346149266796557",
+            "325329031505379338"
+        ]
+    },
+    {
+        "Type": "Anime",
+        "Name": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+        "Source": "YT",
+        "Url": "nanatsu-no-taizai-mokushiroku-no-yonkishi",
+        "LastEpisode": 2,
+        "UsersToTag": [
+            "1100346149266796557"
+        ]
+    }
+]

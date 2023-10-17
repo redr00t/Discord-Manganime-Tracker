@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  manganime:
+    image: manganime
+    container_name: manganime
+    volumes:
+      - ./sources.json:/app/sources.json
+    environment:
+      - WEBHOOK_URL=https://discord.com/api/webhooks/11111111111111111111111111111111111111
+      - WAIT_TIME_SECONDS=900 # 15 minutos por defecto
+    restart: always
