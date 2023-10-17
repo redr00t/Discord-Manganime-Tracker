@@ -1,5 +1,6 @@
 from Modules.utils import SourceType, get_source_url
 import requests
+import os
 
 # Obtener el valor de la variable de entorno WEBHOOK_URL
 WEBHOOK_URL = os.environ.get("WEBHOOK_URL")
