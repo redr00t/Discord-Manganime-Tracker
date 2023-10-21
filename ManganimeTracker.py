@@ -6,9 +6,9 @@ from Modules.animeyt import get_last_episode_and_name_animeyt
 from Modules.animeflv import get_last_episode_and_name_animeflv
 from Modules.mangas import check_manga_updates, SourceType
 from Modules.discord_webhook import send_discord_notification
-from Modules.utils import SourceType, get_source_url
+from Modules.utils import SourceType
 
-# Intervalo de comprobaciÃ³n de episodios y capÃ­tulos
+# Intervalo de comprobación de episodios y capítulos
 WAIT_TIME_SECONDS = int(os.environ.get("WAIT_TIME_SECONDS", 600))
 
 def main():
@@ -26,12 +26,12 @@ def main():
                     print(f"Error al obtener el episodio para {anime_name} ({source['Url']}). Revisa la fuente.")
                     continue
 
-                # Convierte episode_number a un nÃºmero entero solo para comparar
+                # Convierte episode_number a un número entero solo para comparar
                 episode_number = int(episode_number)
 
                 if source['LastEpisode'] is None or episode_number > int(source['LastEpisode']):
                     send_discord_notification(anime_name, episode_number, source, image_url, description)
-                    source['LastEpisode'] = episode_number  # Almacenar como un nÃºmero entero, no como cadena
+                    source['LastEpisode'] = episode_number  # Almacenar como un número entero, no como cadena
                     print(f"Comprobado: {anime_name} ({source['Url']}) - Episodio {episode_number}")
 
             elif source['Type'] == SourceType.Manga:

@@ -1,4 +1,4 @@
-from Modules.utils import SourceType, get_source_url
+from Modules.utils import get_source_url
 import requests
 from bs4 import BeautifulSoup
 import re

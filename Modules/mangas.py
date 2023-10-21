@@ -1,6 +1,6 @@
 from Modules.utils import SourceType, get_source_url
 from Modules.discord_webhook import send_discord_notification
-from Modules.load_save_sources import load_sources, save_sources
+from Modules.load_save_sources import save_sources
 import requests
 from bs4 import BeautifulSoup
 
